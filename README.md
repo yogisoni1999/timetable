@@ -1,0 +1,2 @@
+# timetable
+class Schedule
